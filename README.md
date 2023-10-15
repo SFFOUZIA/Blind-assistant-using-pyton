@@ -1,1 +1,1 @@
-# Blind-assistant-using-pyton
+# Assistant-for-blind
